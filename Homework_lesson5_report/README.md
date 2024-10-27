@@ -16,7 +16,7 @@
 
 3. `MYAPP_PORT=3000 node index.js --> запускаем приложуньку без демона`
 
-4. `curl localhost:3000 && curl -X POST localhost:3000` --> смотрим доступные методы и что отдает приложение<br>
+4. `curl localhost:3000 && curl -X POST localhost:3000 --> смотрим доступные методы и что отдает приложение`<br>
 ![image](https://github.com/user-attachments/assets/8bbdc032-b454-4c15-8028-bd23a768884b)
 
 5. Создаем демона для запуска приложуньки<br>
